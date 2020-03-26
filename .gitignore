@@ -1,0 +1,7 @@
+*.zip
+*.pdf
+/data/*
+/docs/*
+/model/*
+__pycache__/*
+.idea/*
