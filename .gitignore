@@ -5,3 +5,6 @@
 /model/*
 __pycache__/*
 .idea/*
+.ipynb_checkpoints/
+software/
+data/
